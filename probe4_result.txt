@@ -1,0 +1,684 @@
+
+
+########## sports_1st ##########
+
+=== API NAMES FROM SCRIPTS ===
+
+=== open_day_click URL: https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/Index/142131/1001?rc=101&ptn=2&d=2026-10-26&sd=2026-10-26&ed=2026-10-26
+arrow_downward
+本文へ移動
+menu
+メニュー
+lock_open
+ログインする
+font_adjuster
+表示設定
+あなたの現在地:
+home
+ホーム
+chevron_right
+現在のページ :
+施設の空き状況[三機MIRAIスポーツセンター大和]
+domain
+施設の空き状況
+help
+ヘルプ - 施設の空き状況
+ヘルプ open_in_new
+ウインドウを別のタブで表示します
+対象施設
+三機MIRAIスポーツセンター大和
+絞り込み条件
+search
+室場： 三機MIRAIアリーナ（第1体育室）
+open_in_browser
+clear
+search
+絞り込み中
+open_in_browser
+絞り込み中
+空き状況一覧
+ 
+help
+ヒント
+使い方
+arrow_left
+前日
+2026年 keyboard_arrow_down
+日付の変更
+10月26日月
+翌日
+arrow_right
+空き状況一覧 2026年10月26日月曜日
+時間
+	
+09:00
+10:00
+11:00
+12:00
+13:00
+14:00
+15:00
+16:00
+17:00
+18:00
+19:00
+20:00
+header
+
+
+三機MIRAIアリーナ（第1体育室）
+compare_arrows
+２週間分を比較
+
+
+時間
+	
+09:00
+10:00
+11:00
+12:00
+13:00
+14:00
+15:00
+16:00
+17:00
+18:00
+19:00
+20:00
+
+
+三機MIRAIアリーナ（第1体育室）
+全面(空き照会のみ）
+	
+9時から12時 午前 空きなし
+close
+12時から15時 午後1 空きなし
+close
+15時から18時 午後2 空きなし
+close
+18時から21時 夜間 空きなし
+close
+
+
+三機MIRAIアリーナ（第1体育室）
+1/3面A
+	
+9時から12時 午前 空きなし
+close
+12時から15時 午後1 空きなし
+close
+15時から18時 午後2 空きなし
+close
+18時から21時 夜間 空きなし
+close
+
+
+三機MIRAIアリーナ（第1体育室）
+1/3面B
+	
+9時から12時 午前 空き状況のみ
+trip_origin
+12時から15時 午後1 空き状況のみ
+trip_origin
+15時から18時 午後2 空き状況のみ
+trip_origin
+18時から21時 夜間 空き状況のみ
+trip_origin
+
+
+三機MIRAIアリーナ（第1体育室）
+1/3面C
+	
+9時から12時 午前 空きなし
+close
+12時から15時 午後1 空きなし
+close
+15時から18時 午後2 空きなし
+close
+18時から21時 夜間 空きなし
+close
+空き状況一覧の
+凡例
+trip_origin
+利用可能
+ ：
+利用可能
+phone
+電話受付
+TEL
+ ：
+電話受付
+contact_reservation
+窓口受付
+窓口
+ ：
+窓口受付
+lottery
+抽選申込可
+ ：
+抽選申込可
+※ 申込件数または有無を表示。()内は重複している他の面の申込を表す。
+trip_origin
+空き状況のみ
+ ：
+空き状況のみ
+close
+空きなし
+ ：
+空きなし
+local_hotel
+休館日
+ ：
+休館日
+lottery_wait
+抽選待ち
+待ち
+ ：
+抽選待ち
+access_time
+公開前
+前
+ ：
+公開前
+contact_reservation
+受付前
+前
+ ：
+受付前
+access_time
+公開終了
+終
+ ：
+公開終了
+contact_reservation
+受付終了
+終
+ ：
+受付終了
+remove
+利用不可
+ ：
+利用不可
+release
+一般開放
+ ：
+一般開放
+build
+設備保守
+ ：
+設備保守
+undoホームにもどる
+arrow_back
+前のページに戻る
+ヘルプ
+(ウインドウを別のタブで表示します)
+open_in_new
+サイトマップ
+規約と方針
+(ウインドウを別のタブで表示します)
+open_in_new
+お問い合わせ
+(ウインドウを別のタブで表示します)
+open_in_new
+ホーム
+施設一覧・検索
+お知らせ
+© 大和市e-kanagawa施設予約サービス
+help
+空き状況一覧
+①時間帯を閲覧
+各室場・面ごとに、指定した日付の空き状況が閲覧できます。
+ 左右にスクロール（スワイプ）することで、表示する時間帯をずらすことができます。
+●
+●
+●
+●
+●
+次へ
+スキップ
+
+--- POST https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/GetDay/142131/1001
+POST: {"startDate":"2026-10-26","endDate":"2026-10-26","roomCode":null,"courtSize":null,"utilizationPurpose":null,"usePeople":null,"room":{"roomCode":"101","roomName":"三機MIRAIアリーナ（第1体育室）"},"toggleTimeType":false,"usageTimes":null,"usagePeriodOfTime":null,"allowInternetRequest":null,"requestId":null}
+{"rooms":[{"roomCode":"101","roomName":"三機MIRAIアリーナ（第1体育室）","fieldOfficePhoneNumber":"0462616200","closedToday":false,"governmentOfficeClosedToday":false,"serviceProvidingEnd":false,"courts":[{"courtCode":"104","courtName":"全面(空き照会のみ）","courtSize":null,"dayBooks":[{"usageDate":"2026-10-26T00:00:00","statusType":null,"isLot":false,"userCourtReservationType":"1","userCourtLotType":"1","roomType":"2","usageTimes":[{"usageTimeFrameId":741,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":742,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":743,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":744,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":745,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":746,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":747,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":748,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":749,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":750,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0}],"userLotDisplayType":"1","allowUserReserveMultiple":true}]},{"courtCode":"101","courtName":"1/3面A","courtSize":null,"dayBooks":[{"usageDate":"2026-10-26T00:00:00","statusType":null,"isLot":false,"userCourtReservationType":"1","userCourtLotType":"1","roomType":"2","usageTimes":[{"usageTimeFrameId":741,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":742,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":743,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":744,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":745,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":746,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":747,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":748,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":749,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":750,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0}],"userLotDisplayType":"1","allowUserReserveMultiple":true}]},{"courtCode":"102","courtName":"1/3面B","courtSize":null,"dayBooks":[{"usageDate":"2026-10-26T00:00:00","statusType":null,"isLot":false,"userCourtReservationType":"1","userCourtLotType":"1","roomType":"2","usageTimes":[{"usageTimeFrameId":741,"statusType":"A02","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":742,"statusType":"A02","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":743,"statusType":"A02","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":744,"statusType":"A02","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":745,"statusType":"A02","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":746,"statusType":"A02","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":747,"statusType":"A02","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":748,"statusType":"A02","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":749,"statusType":"A02","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":750,"statusType":"A02","lotRequestNumber":0,"lotOverlapRequestNumber":0}],"userLotDisplayType":"1","allowUserReserveMultiple":true}]},{"courtCode":"103","courtName":"1/3面C","courtSize":null,"dayBooks":[{"usageDate":"2026-10-26T00:00:00","statusType":null,"isLot":false,"userCourtReservationType":"1","userCourtLotType":"1","roomType":"2","usageTimes":[{"usageTimeFrameId":741,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":742,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":743,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":744,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":745,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":746,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":747,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":748,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":749,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":750,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0}],"userLotDisplayType":"1","allowUserReserveMultiple":true}]}]}],"timeFrames":[{"usageTimeSetId":0,"isUnit":false,"userRequestUnitNumber":null,"usageTimeFrames":[{"usageTimeFrameId":741,"usageStartTime":"09:00:00","usageEndTime":"12:00:00","usageTimeName":"午前"},{"usageTimeFrameId":742,"usageStartTime":"12:00:00","usageEndTime":"15:00:00","usageTimeName":"午後1"},{"usageTimeFrameId":743,"usageStartTime":"15:00:00","usageEndTime":"18:00:00","usageTimeName":"午後2"},{"usageTimeFrameId":744,"usageStartTime":"18:00:00","usageEndTime":"21:00:00","usageTimeName":"夜間"}],"joinUsageTimeFrames":[{"usageTimeFrameId":745,"joinUsageTimeFrameName":"午前午後","joinUsageTimeFrameIds":[741,742]},{"usageTimeFrameId":746,"joinUsageTimeFrameName":"午前午後","joinUsageTimeFrameIds":[741,742,743]},{"usageTimeFrameId":747,"joinUsageTimeFrameName":"全日","joinUsageTimeFrameIds":[741,742,743,744]},{"usageTimeFrameId":748,"joinUsageTimeFrameName":"午後","joinUsageTimeFrameIds":[742,743]},{"usageTimeFrameId":749,"joinUsageTimeFrameName":"午後夜間","joinUsageTimeFrameIds":[742,743,744]},{"usageTimeFrameId":750,"joinUsageTimeFrameName":"午後夜間","joinUsageTimeFrameIds":[743,744]}]}],"courtSizes":{},"holidays":[]}
+
+
+########## sports_3rd ##########
+
+=== open_day_click URL: https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/Index/142131/1001?rc=111&ptn=2&d=2026-10-26&sd=2026-10-26&ed=2026-10-26
+arrow_downward
+本文へ移動
+menu
+メニュー
+lock_open
+ログインする
+font_adjuster
+表示設定
+あなたの現在地:
+home
+ホーム
+chevron_right
+現在のページ :
+施設の空き状況[三機MIRAIスポーツセンター大和]
+domain
+施設の空き状況
+help
+ヘルプ - 施設の空き状況
+ヘルプ open_in_new
+ウインドウを別のタブで表示します
+対象施設
+三機MIRAIスポーツセンター大和
+絞り込み条件
+search
+室場： 第3体育室
+open_in_browser
+clear
+search
+絞り込み中
+open_in_browser
+絞り込み中
+空き状況一覧
+ 
+help
+ヒント
+使い方
+arrow_left
+前日
+2026年 keyboard_arrow_down
+日付の変更
+10月26日月
+翌日
+arrow_right
+空き状況一覧 2026年10月26日月曜日
+時間
+	
+09:00
+10:00
+11:00
+12:00
+13:00
+14:00
+15:00
+16:00
+17:00
+18:00
+19:00
+20:00
+header
+
+
+第3体育室
+compare_arrows
+２週間分を比較
+
+
+時間
+	
+09:00
+10:00
+11:00
+12:00
+13:00
+14:00
+15:00
+16:00
+17:00
+18:00
+19:00
+20:00
+
+
+第3体育室
+	
+9時から12時 午前 空き状況のみ
+trip_origin
+12時から15時 午後1 空きなし
+close
+15時から18時 午後2 空きなし
+close
+18時から21時 夜間 空きなし
+close
+空き状況一覧の
+凡例
+trip_origin
+利用可能
+ ：
+利用可能
+phone
+電話受付
+TEL
+ ：
+電話受付
+contact_reservation
+窓口受付
+窓口
+ ：
+窓口受付
+lottery
+抽選申込可
+ ：
+抽選申込可
+※ 申込件数または有無を表示。()内は重複している他の面の申込を表す。
+trip_origin
+空き状況のみ
+ ：
+空き状況のみ
+close
+空きなし
+ ：
+空きなし
+local_hotel
+休館日
+ ：
+休館日
+lottery_wait
+抽選待ち
+待ち
+ ：
+抽選待ち
+access_time
+公開前
+前
+ ：
+公開前
+contact_reservation
+受付前
+前
+ ：
+受付前
+access_time
+公開終了
+終
+ ：
+公開終了
+contact_reservation
+受付終了
+終
+ ：
+受付終了
+remove
+利用不可
+ ：
+利用不可
+release
+一般開放
+ ：
+一般開放
+build
+設備保守
+ ：
+設備保守
+undoホームにもどる
+arrow_back
+前のページに戻る
+ヘルプ
+(ウインドウを別のタブで表示します)
+open_in_new
+サイトマップ
+規約と方針
+(ウインドウを別のタブで表示します)
+open_in_new
+お問い合わせ
+(ウインドウを別のタブで表示します)
+open_in_new
+ホーム
+施設一覧・検索
+お知らせ
+© 大和市e-kanagawa施設予約サービス
+help
+空き状況一覧
+①時間帯を閲覧
+各室場・面ごとに、指定した日付の空き状況が閲覧できます。
+ 左右にスクロール（スワイプ）することで、表示する時間帯をずらすことができます。
+●
+●
+●
+●
+●
+次へ
+スキップ
+
+--- POST https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/GetDay/142131/1001
+POST: {"startDate":"2026-10-26","endDate":"2026-10-26","roomCode":null,"courtSize":null,"utilizationPurpose":null,"usePeople":null,"room":{"roomCode":"111","roomName":"第3体育室"},"toggleTimeType":false,"usageTimes":null,"usagePeriodOfTime":null,"allowInternetRequest":null,"requestId":null}
+{"rooms":[{"roomCode":"111","roomName":"第3体育室","fieldOfficePhoneNumber":"0462616200","closedToday":false,"governmentOfficeClosedToday":false,"serviceProvidingEnd":false,"courts":[{"courtCode":"000","courtName":"第3体育室","courtSize":null,"dayBooks":[{"usageDate":"2026-10-26T00:00:00","statusType":null,"isLot":false,"userCourtReservationType":"1","userCourtLotType":"1","roomType":"1","usageTimes":[{"usageTimeFrameId":741,"statusType":"A02","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":742,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":743,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":744,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":745,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":746,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":747,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":748,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":749,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0},{"usageTimeFrameId":750,"statusType":"R03","lotRequestNumber":0,"lotOverlapRequestNumber":0}],"userLotDisplayType":"1","allowUserReserveMultiple":true}]}]}],"timeFrames":[{"usageTimeSetId":0,"isUnit":false,"userRequestUnitNumber":null,"usageTimeFrames":[{"usageTimeFrameId":741,"usageStartTime":"09:00:00","usageEndTime":"12:00:00","usageTimeName":"午前"},{"usageTimeFrameId":742,"usageStartTime":"12:00:00","usageEndTime":"15:00:00","usageTimeName":"午後1"},{"usageTimeFrameId":743,"usageStartTime":"15:00:00","usageEndTime":"18:00:00","usageTimeName":"午後2"},{"usageTimeFrameId":744,"usageStartTime":"18:00:00","usageEndTime":"21:00:00","usageTimeName":"夜間"}],"joinUsageTimeFrames":[{"usageTimeFrameId":745,"joinUsageTimeFrameName":"午前午後","joinUsageTimeFrameIds":[741,742]},{"usageTimeFrameId":746,"joinUsageTimeFrameName":"午前午後","joinUsageTimeFrameIds":[741,742,743]},{"usageTimeFrameId":747,"joinUsageTimeFrameName":"全日","joinUsageTimeFrameIds":[741,742,743,744]},{"usageTimeFrameId":748,"joinUsageTimeFrameName":"午後","joinUsageTimeFrameIds":[742,743]},{"usageTimeFrameId":749,"joinUsageTimeFrameName":"午後夜間","joinUsageTimeFrameIds":[742,743,744]},{"usageTimeFrameId":750,"joinUsageTimeFrameName":"午後夜間","joinUsageTimeFrameIds":[743,744]}]}],"courtSizes":{},"holidays":[]}
+
+
+########## polaris_arena ##########
+
+=== open_day_click URL: https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/Index/142131/2002?rc=161&ptn=1&d=2026-10-24T00%3A00%3A00&sd=2026-09-27&ed=2026-10-31
+空き状況カレンダー
+ 
+help
+ヒント
+使い方
+arrow_left
+9月
+2026年 10月 keyboard_arrow_down
+月の変更
+11月
+arrow_right
+空き状況カレンダー 2026年10月
+日	月	火	水	木	金	土
+
+27
+contact_reservation
+終
+	
+28
+contact_reservation
+終
+	
+29
+contact_reservation
+終
+	
+30
+contact_reservation
+終
+	
+1
+contact_reservation
+終
+	
+2
+contact_reservation
+終
+	
+3
+contact_reservation
+終
+
+
+4
+contact_reservation
+終
+	
+5
+contact_reservation
+終
+	
+6
+contact_reservation
+終
+	
+7
+contact_reservation
+終
+	
+8
+contact_reservation
+終
+	
+9
+contact_reservation
+終
+	
+10
+contact_reservation
+終
+
+
+11
+contact_reservation
+終
+	
+12
+contact_reservation
+終
+	
+13
+contact_reservation
+終
+	
+14
+contact_reservation
+終
+	
+15
+contact_reservation
+終
+	
+16
+contact_reservation
+終
+	
+17
+contact_reservation
+終
+
+
+18
+contact_reservation
+終
+	
+19
+contact_reservation
+終
+	
+20
+contact_reservation
+終
+	
+21
+contact_reservation
+終
+	
+22
+contact_reservation
+終
+	
+23
+contact_reservation
+終
+	
+24
+close
+
+
+25
+close
+	
+26
+close
+	
+27
+close
+	
+28
+close
+	
+29
+close
+	
+30
+close
+	
+31
+close
+10/24(土) 選択中
+この日の利用状況に戻る
+空き状況カレンダーの
+凡例
+trip_origin
+利用可能
+ ：
+利用可能
+phone
+電話受付
+TEL
+ ：
+電話受付
+contact_reservation
+窓口受付
+窓口
+ ：
+窓口受付
+lottery
+抽選申込可
+ ：
+抽選申込可
+trip_origin
+空き状況のみ
+ ：
+空き状況のみ
+close
+空きなし
+ ：
+空きなし
+local_hotel
+休館日
+ ：
+休館日
+lottery_wait
+抽選待ち
+待ち
+ ：
+抽選待ち
+access_time
+公開前
+前
+ ：
+公開前
+contact_reservation
+受付前
+前
+ ：
+受付前
+access_time
+公開終了
+終
+ ：
+公開終了
+contact_reservation
+受付終了
+終
+ ：
+受付終了
+remove
+利用不可
+ ：
+利用不可
+release
+一般開放
+ ：
+一般開放
+build
+設備保守
+ ：
+設備保守
+undoホームにもどる
+arrow_back
+前のページに戻る
+ヘルプ
+(ウインドウを別のタブで表示します)
+open_in_new
+サイトマップ
+規約と方針
+(ウインドウを別のタブで表示します)
+open_in_new
+お問い合わせ
+(ウインドウを別のタブで表示します)
+open_in_new
+ホーム
+施設一覧・検索
+お知らせ
+© 大和市e-kanagawa施設予約サービス
