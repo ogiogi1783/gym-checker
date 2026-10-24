@@ -1,0 +1,80 @@
+name: probe3
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install playwright && python -m playwright install --with-deps chromium
+      - name: run probe
+        run: |
+          cat > probe3.py <<'EOF'
+          import asyncio
+          from playwright.async_api import async_playwright
+          BASE = "https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/Index/142131/"
+          PAGES = [
+              ("sports_1st", BASE + "1001?rc=101&ptn=1"),
+              ("sports_3rd", BASE + "1001?rc=111&ptn=1"),
+              ("polaris_arena", BASE + "2002?rc=161&ptn=1"),
+          ]
+          out = []
+          async def grab(page, logs, label):
+              await page.wait_for_load_state("networkidle")
+              await page.wait_for_timeout(3000)
+              out.append(f"\n=== {label} PAGE URL: {page.url}\n")
+              txt = await page.inner_text("body")
+              i = txt.find("空き状況カレンダー")
+              out.append(txt[max(0, i):i + 3000] + "\n")
+              for m, u, pd, body in logs:
+                  if "GetEvent" in u or "GetCalendar" in u:
+                      continue
+                  out.append(f"\n--- {m} {u}\nPOST: {pd}\n{body[:12000]}\n")
+              logs.clear()
+          async def main():
+              async with async_playwright() as p:
+                  b = await p.chromium.launch()
+                  ctx = await b.new_context(locale="ja-JP", timezone_id="Asia/Tokyo")
+                  for name, url in PAGES:
+                      out.append(f"\n\n########## {name} ##########\n")
+                      page = await ctx.new_page()
+                      logs = []
+                      async def on_resp(r, logs=logs):
+                          if r.request.resource_type in ("xhr", "fetch"):
+                              try:
+                                  body = await r.text()
+                              except Exception:
+                                  body = ""
+                              logs.append((r.request.method, r.url, r.request.post_data, body))
+                      page.on("response", on_resp)
+                      await page.goto(url, wait_until="networkidle")
+                      await page.wait_for_timeout(3000)
+                      logs.clear()
+                      try:
+                          await page.get_by_text("この日の利用状況に戻る").first.click()
+                          await grab(page, logs, "A_today")
+                      except Exception as e:
+                          out.append(f"A failed: {e}\n")
+                      try:
+                          await page.goto(url, wait_until="networkidle")
+                          await page.wait_for_timeout(3000)
+                          logs.clear()
+                          await page.get_by_text("trip_origin").first.click()
+                          await grab(page, logs, "B_first_open_day")
+                      except Exception as e:
+                          out.append(f"B failed: {e}\n")
+                      await page.close()
+                  await b.close()
+              with open("probe3_result.txt", "w") as f:
+                  f.write("".join(out))
+          asyncio.run(main())
+          EOF
+          python probe3.py
+      - run: |
+          git config user.name bot && git config user.email bot@example.com
+          git add probe3_result.txt && git commit -m "probe3 result" && git push
