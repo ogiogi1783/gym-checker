@@ -1,0 +1,31 @@
+name: monitor
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "test と入れるとテスト通知だけ送ります"
+        default: "run"
+permissions:
+  contents: write
+concurrency:
+  group: monitor
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install playwright && python -m playwright install --with-deps chromium
+      - run: python monitor.py
+        env:
+          LINE_TOKEN: ${{ secrets.LINE_TOKEN }}
+          MODE: ${{ inputs.mode || 'run' }}
+      - run: |
+          git config user.name bot && git config user.email bot@example.com
+          git add -A state.json 2>/dev/null || true
+          git diff --cached --quiet || (git commit -m "update state" && git pull --rebase && git push)
