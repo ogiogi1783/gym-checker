@@ -1,0 +1,978 @@
+
+
+########## search ##########
+1001 三機MIRAIスポーツセンター大和
+  rc=101 三機MIRAIアリーナ（第1体育室） net=True
+  rc=161 第2体育室 net=False
+  rc=171 会議室 net=False
+  rc=111 第3体育室 net=True
+  rc=121 第一武道場 net=True
+  rc=131 第二武道場 net=True
+  rc=141 弓道場 net=True
+  rc=151 大和なでしこ三機スタジアム（競技場） net=False
+2002 リンカングループ大和文化センター（北部文化・スポーツ・子育てセンター）
+  rc=101 Room1 net=True
+  rc=111 Room2 net=True
+  rc=121 Room3 net=True
+  rc=131 Room6 net=True
+  rc=141 Room7 net=True
+  rc=151 Room8 net=True
+  rc=161 アリーナ net=True
+
+
+########## sports_1st ##########
+=== PAGE TEXT ===
+arrow_downward
+本文へ移動
+close
+メニュー
+閉じる
+menu
+メニュー
+home
+ホーム
+domain
+施設一覧・検索
+info
+お知らせ
+lock_open
+ログイン
+help
+ヘルプ
+(ウインドウを別のタブで表示します)
+open_in_new
+map
+サイトマップ
+subject
+規約と方針
+(ウインドウを別のタブで表示します)
+open_in_new
+phone
+お問い合わせ
+(ウインドウを別のタブで表示します)
+open_in_new
+location_city
+e-kanagawa施設予約ポータル
+close
+閉じる
+lock_open
+ログインする
+font_adjuster
+表示設定
+あなたの現在地:
+home
+ホーム
+chevron_right
+施設一覧・検索
+chevron_right
+現在のページ :
+施設の空き状況[三機MIRAIスポーツセンター大和]
+domain
+施設の空き状況
+help
+ヘルプ - 施設の空き状況
+ヘルプ open_in_new
+ウインドウを別のタブで表示します
+対象施設
+三機MIRAIスポーツセンター大和
+絞り込み条件
+search
+室場： 三機MIRAIアリーナ（第1体育室）
+open_in_browser
+clear
+search
+絞り込み中
+open_in_browser
+絞り込み中
+空き状況カレンダー
+ 
+help
+ヒント
+使い方
+arrow_left
+9月
+2026年 10月 keyboard_arrow_down
+月の変更
+11月
+arrow_right
+空き状況カレンダー 2026年10月
+日	月	火	水	木	金	土
+
+27
+access_time
+終
+	
+28
+access_time
+終
+	
+29
+access_time
+終
+	
+30
+access_time
+終
+	
+1
+access_time
+終
+	
+2
+access_time
+終
+	
+3
+access_time
+終
+
+
+4
+access_time
+終
+	
+5
+access_time
+終
+	
+6
+access_time
+終
+	
+7
+access_time
+終
+	
+8
+access_time
+終
+	
+9
+access_time
+終
+	
+10
+access_time
+終
+
+
+11
+access_time
+終
+	
+12
+access_time
+終
+	
+13
+access_time
+終
+	
+14
+access_time
+終
+	
+15
+access_time
+終
+	
+16
+access_time
+終
+	
+17
+access_time
+終
+
+
+18
+access_time
+終
+	
+19
+access_time
+終
+	
+20
+access_time
+終
+	
+21
+access_time
+終
+	
+22
+access_time
+終
+	
+23
+access_time
+終
+	
+24
+close
+
+
+25
+close
+	
+26
+trip_origin
+	
+27
+close
+	
+28
+close
+	
+29
+trip_origin
+	
+30
+close
+	
+31
+close
+10/24(土) 選択中
+この日の利用状況に戻る
+空き状況カレンダーの
+凡例
+trip_origin
+利用可能
+ ：
+利用可能
+phone
+電話受付
+TEL
+ ：
+電話受付
+contact_reservation
+窓口受付
+窓口
+ ：
+窓口受付
+lottery
+抽選申込可
+ ：
+抽選申込可
+trip_origin
+空き状況のみ
+ ：
+空き状況のみ
+close
+空きなし
+ ：
+空きなし
+local_hotel
+休館日
+ ：
+休館日
+lottery_wait
+抽選待ち
+待ち
+ ：
+抽選待ち
+access_time
+公開前
+前
+ ：
+公開前
+contact_reservation
+受付前
+前
+ ：
+受付前
+access_time
+公開終了
+終
+ ：
+公開終了
+contact_reservation
+受付終了
+終
+ ：
+受付終了
+remove
+利用不可
+ ：
+利用不可
+release
+一般開放
+ ：
+一般開放
+build
+設備保守
+ ：
+設備保守
+undo施設一覧・検索にもどる
+arrow_back
+前のページに戻る
+ヘルプ
+(ウインドウを別のタブで表示します)
+open_in_new
+サイトマップ
+規約と方針
+(ウインドウを別のタブで表示します)
+open_in_new
+お問い合わせ
+(ウインドウを別のタブで表示します)
+open_in_new
+ホーム
+施設一覧・検索
+お知らせ
+© 大和市e-kanagawa施設予約サービス
+help
+空き状況カレンダー
+①日付の選択
+カレンダーから日付を選択します。
+月を切り替えるには①中央の選択中の年月ボタンを押すか、②左右の次の月・前の月のボタンを押します。
+●
+●
+次へ
+スキップ
+=== NETWORK ===
+
+--- GET https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/GetEvent/142131/1001?month=2026-10
+POST: None
+[]
+
+--- POST https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/GetCalendar/142131/1001
+POST: {"startDate":"2026-09-27","endDate":"2026-10-31","roomCode":null,"courtSize":null,"utilizationPurpose":null,"usePeople":null,"room":{"roomCode":"101","roomName":"三機MIRAIアリーナ（第1体育室）"},"toggleTimeType":false,"usageTimes":null,"usagePeriodOfTime":null,"allowInternetRequest":null,"requestId":null,"period":35}
+{"dayBooks":[{"usageDate":"2026-09-27T00:00:00+09:00","statusType":"U04"},{"usageDate":"2026-09-28T00:00:00+09:00","statusType":"U04"},{"usageDate":"2026-09-29T00:00:00+09:00","statusType":"U04"},{"usageDate":"2026-09-30T00:00:00+09:00","statusType":"U04"},{"usageDate":"2026-10-01T00:00:00+09:00","statusType":"U04"},{"usageDate":"2026-10-02T00:00:00+09:00","statusType":"U04"},{"usageDate":"2026-10-03T00:00:00+09:00","statusType":"U04"},{"usageDate":"2026-10-04T00:00:00+09:00","statusType":"U04"},{"usageDate":"2026-10-05T00:00:00+09:00","statusType":"U04"},{"usageDate":"2026-10-06T00:00:00+09:00","statusType":"U04"},{"usageDate":"2026-10-07T00:00:00+09:00","statusType":"U04"},{"usageDate":"2026-10-08T00:00:00+09:00","statusType":"U04"},{"usageDate":"2026-10-09T00:00:00+09:00","statusType":"U04"},{"usageDate":"2026-10-10T00:00:00+09:00","statusType":"U04"},{"usageDate":"2026-10-11T00:00:00+09:00","statusType":"U04"},{"usageDate":"2026-10-12T00:00:00+09:00","statusType":"U04"},{"usageDate":"2026-10-13T00:00:00+09:00","statusType":"U04"},{"usageDate":"2026-10-14T00:00:00+09:00","statusType":"U04"},{"usageDate":"2026-10-15T00:00:00+09:00","statusType":"U04"},{"usageDate":"2026-10-16T00:00:00+09:00","statusType":"U04"},{"usageDate":"2026-10-17T00:00:00+09:00","statusType":"U04"},{"usageDate":"2026-10-18T00:00:00+09:00","statusType":"U04"},{"usageDate":"2026-10-19T00:00:00+09:00","statusType":"U04"},{"usageDate":"2026-10-20T00:00:00+09:00","statusType":"U04"},{"usageDate":"2026-10-21T00:00:00+09:00","statusType":"U04"},{"usageDate":"2026-10-22T00:00:00+09:00","statusType":"U04"},{"usageDate":"2026-10-23T00:00:00+09:00","statusType":"U04"},{"usageDate":"2026-10-24T00:00:00+09:00","statusType":"R03"},{"usageDate":"2026-10-25T00:00:00+09:00","statusType":"R03"},{"usageDate":"2026-10-26T00:00:00+09:00","statusType":"A02"},{"usageDate":"2026-10-27T00:00:00+09:00","statusType":"R03"},{"usageDate":"2026-10-28T00:00:00+09:00","statusType":"R03"},{"usageDate":"2026-10-29T00:00:00+09:00","statusType":"A02"},{"usageDate":"2026-10-30T00:00:00+09:00","statusType":"R03"},{"usageDate":"2026-10-31T00:00:00+09:00","statusType":"R03"}],"holidays":[{"holidayDate":"2026-10-12T00:00:00","holidayName":"スポーツの日"}]}
+
+
+########## sports_3rd ##########
+=== PAGE TEXT ===
+arrow_downward
+本文へ移動
+close
+メニュー
+閉じる
+menu
+メニュー
+home
+ホーム
+domain
+施設一覧・検索
+info
+お知らせ
+lock_open
+ログイン
+help
+ヘルプ
+(ウインドウを別のタブで表示します)
+open_in_new
+map
+サイトマップ
+subject
+規約と方針
+(ウインドウを別のタブで表示します)
+open_in_new
+phone
+お問い合わせ
+(ウインドウを別のタブで表示します)
+open_in_new
+location_city
+e-kanagawa施設予約ポータル
+close
+閉じる
+lock_open
+ログインする
+font_adjuster
+表示設定
+あなたの現在地:
+home
+ホーム
+chevron_right
+施設一覧・検索
+chevron_right
+現在のページ :
+施設の空き状況[三機MIRAIスポーツセンター大和]
+domain
+施設の空き状況
+help
+ヘルプ - 施設の空き状況
+ヘルプ open_in_new
+ウインドウを別のタブで表示します
+対象施設
+三機MIRAIスポーツセンター大和
+絞り込み条件
+search
+室場： 第3体育室
+open_in_browser
+clear
+search
+絞り込み中
+open_in_browser
+絞り込み中
+空き状況カレンダー
+ 
+help
+ヒント
+使い方
+arrow_left
+9月
+2026年 10月 keyboard_arrow_down
+月の変更
+11月
+arrow_right
+空き状況カレンダー 2026年10月
+日	月	火	水	木	金	土
+
+27
+contact_reservation
+終
+	
+28
+contact_reservation
+終
+	
+29
+contact_reservation
+終
+	
+30
+contact_reservation
+終
+	
+1
+contact_reservation
+終
+	
+2
+contact_reservation
+終
+	
+3
+contact_reservation
+終
+
+
+4
+contact_reservation
+終
+	
+5
+contact_reservation
+終
+	
+6
+contact_reservation
+終
+	
+7
+contact_reservation
+終
+	
+8
+contact_reservation
+終
+	
+9
+contact_reservation
+終
+	
+10
+contact_reservation
+終
+
+
+11
+contact_reservation
+終
+	
+12
+contact_reservation
+終
+	
+13
+contact_reservation
+終
+	
+14
+contact_reservation
+終
+	
+15
+contact_reservation
+終
+	
+16
+contact_reservation
+終
+	
+17
+contact_reservation
+終
+
+
+18
+contact_reservation
+終
+	
+19
+contact_reservation
+終
+	
+20
+contact_reservation
+終
+	
+21
+contact_reservation
+終
+	
+22
+contact_reservation
+終
+	
+23
+contact_reservation
+終
+	
+24
+close
+
+
+25
+close
+	
+26
+trip_origin
+	
+27
+close
+	
+28
+close
+	
+29
+close
+	
+30
+close
+	
+31
+close
+10/24(土) 選択中
+この日の利用状況に戻る
+空き状況カレンダーの
+凡例
+trip_origin
+利用可能
+ ：
+利用可能
+phone
+電話受付
+TEL
+ ：
+電話受付
+contact_reservation
+窓口受付
+窓口
+ ：
+窓口受付
+lottery
+抽選申込可
+ ：
+抽選申込可
+trip_origin
+空き状況のみ
+ ：
+空き状況のみ
+close
+空きなし
+ ：
+空きなし
+local_hotel
+休館日
+ ：
+休館日
+lottery_wait
+抽選待ち
+待ち
+ ：
+抽選待ち
+access_time
+公開前
+前
+ ：
+公開前
+contact_reservation
+受付前
+前
+ ：
+受付前
+access_time
+公開終了
+終
+ ：
+公開終了
+contact_reservation
+受付終了
+終
+ ：
+受付終了
+remove
+利用不可
+ ：
+利用不可
+release
+一般開放
+ ：
+一般開放
+build
+設備保守
+ ：
+設備保守
+undo施設一覧・検索にもどる
+arrow_back
+前のページに戻る
+ヘルプ
+(ウインドウを別のタブで表示します)
+open_in_new
+サイトマップ
+規約と方針
+(ウインドウを別のタブで表示します)
+open_in_new
+お問い合わせ
+(ウインドウを別のタブで表示します)
+open_in_new
+ホーム
+施設一覧・検索
+お知らせ
+© 大和市e-kanagawa施設予約サービス
+help
+空き状況カレンダー
+①日付の選択
+カレンダーから日付を選択します。
+月を切り替えるには①中央の選択中の年月ボタンを押すか、②左右の次の月・前の月のボタンを押します。
+●
+●
+次へ
+スキップ
+=== NETWORK ===
+
+--- GET https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/GetEvent/142131/1001?month=2026-10
+POST: None
+[]
+
+--- POST https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/GetCalendar/142131/1001
+POST: {"startDate":"2026-09-27","endDate":"2026-10-31","roomCode":null,"courtSize":null,"utilizationPurpose":null,"usePeople":null,"room":{"roomCode":"111","roomName":"第3体育室"},"toggleTimeType":false,"usageTimes":null,"usagePeriodOfTime":null,"allowInternetRequest":null,"requestId":null,"period":35}
+{"dayBooks":[{"usageDate":"2026-09-27T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-09-28T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-09-29T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-09-30T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-01T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-02T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-03T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-04T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-05T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-06T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-07T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-08T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-09T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-10T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-11T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-12T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-13T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-14T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-15T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-16T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-17T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-18T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-19T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-20T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-21T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-22T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-23T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-24T00:00:00+09:00","statusType":"R03"},{"usageDate":"2026-10-25T00:00:00+09:00","statusType":"R03"},{"usageDate":"2026-10-26T00:00:00+09:00","statusType":"A02"},{"usageDate":"2026-10-27T00:00:00+09:00","statusType":"R03"},{"usageDate":"2026-10-28T00:00:00+09:00","statusType":"R03"},{"usageDate":"2026-10-29T00:00:00+09:00","statusType":"R03"},{"usageDate":"2026-10-30T00:00:00+09:00","statusType":"R03"},{"usageDate":"2026-10-31T00:00:00+09:00","statusType":"R03"}],"holidays":[{"holidayDate":"2026-10-12T00:00:00","holidayName":"スポーツの日"}]}
+
+
+########## polaris ##########
+=== PAGE TEXT ===
+arrow_downward
+本文へ移動
+close
+メニュー
+閉じる
+menu
+メニュー
+home
+ホーム
+domain
+施設一覧・検索
+info
+お知らせ
+lock_open
+ログイン
+help
+ヘルプ
+(ウインドウを別のタブで表示します)
+open_in_new
+map
+サイトマップ
+subject
+規約と方針
+(ウインドウを別のタブで表示します)
+open_in_new
+phone
+お問い合わせ
+(ウインドウを別のタブで表示します)
+open_in_new
+location_city
+e-kanagawa施設予約ポータル
+close
+閉じる
+lock_open
+ログインする
+font_adjuster
+表示設定
+あなたの現在地:
+home
+ホーム
+chevron_right
+施設一覧・検索
+chevron_right
+現在のページ :
+施設の空き状況[リンカングループ大和文化センター（北部文化・スポーツ・子育てセンター）]
+domain
+施設の空き状況
+help
+ヘルプ - 施設の空き状況
+ヘルプ open_in_new
+ウインドウを別のタブで表示します
+対象施設
+リンカングループ大和文化センター（北部文化・スポーツ・子育てセンター）
+絞り込み条件
+search
+絞り込み
+open_in_browser
+空き状況カレンダー
+ 
+help
+ヒント
+使い方
+arrow_left
+9月
+2026年 10月 keyboard_arrow_down
+月の変更
+11月
+arrow_right
+空き状況カレンダー 2026年10月
+日	月	火	水	木	金	土
+
+27
+contact_reservation
+終
+	
+28
+contact_reservation
+終
+	
+29
+contact_reservation
+終
+	
+30
+contact_reservation
+終
+	
+1
+contact_reservation
+終
+	
+2
+contact_reservation
+終
+	
+3
+contact_reservation
+終
+
+
+4
+contact_reservation
+終
+	
+5
+contact_reservation
+終
+	
+6
+contact_reservation
+終
+	
+7
+contact_reservation
+終
+	
+8
+contact_reservation
+終
+	
+9
+contact_reservation
+終
+	
+10
+contact_reservation
+終
+
+
+11
+contact_reservation
+終
+	
+12
+contact_reservation
+終
+	
+13
+contact_reservation
+終
+	
+14
+contact_reservation
+終
+	
+15
+contact_reservation
+終
+	
+16
+contact_reservation
+終
+	
+17
+contact_reservation
+終
+
+
+18
+contact_reservation
+終
+	
+19
+contact_reservation
+終
+	
+20
+contact_reservation
+終
+	
+21
+contact_reservation
+終
+	
+22
+contact_reservation
+終
+	
+23
+contact_reservation
+終
+	
+24
+close
+
+
+25
+close
+	
+26
+trip_origin
+	
+27
+trip_origin
+	
+28
+trip_origin
+	
+29
+trip_origin
+	
+30
+trip_origin
+	
+31
+trip_origin
+10/24(土) 選択中
+この日の利用状況に戻る
+空き状況カレンダーの
+凡例
+trip_origin
+利用可能
+ ：
+利用可能
+phone
+電話受付
+TEL
+ ：
+電話受付
+contact_reservation
+窓口受付
+窓口
+ ：
+窓口受付
+lottery
+抽選申込可
+ ：
+抽選申込可
+trip_origin
+空き状況のみ
+ ：
+空き状況のみ
+close
+空きなし
+ ：
+空きなし
+local_hotel
+休館日
+ ：
+休館日
+lottery_wait
+抽選待ち
+待ち
+ ：
+抽選待ち
+access_time
+公開前
+前
+ ：
+公開前
+contact_reservation
+受付前
+前
+ ：
+受付前
+access_time
+公開終了
+終
+ ：
+公開終了
+contact_reservation
+受付終了
+終
+ ：
+受付終了
+remove
+利用不可
+ ：
+利用不可
+release
+一般開放
+ ：
+一般開放
+build
+設備保守
+ ：
+設備保守
+undo施設一覧・検索にもどる
+arrow_back
+前のページに戻る
+ヘルプ
+(ウインドウを別のタブで表示します)
+open_in_new
+サイトマップ
+規約と方針
+(ウインドウを別のタブで表示します)
+open_in_new
+お問い合わせ
+(ウインドウを別のタブで表示します)
+open_in_new
+ホーム
+施設一覧・検索
+お知らせ
+© 大和市e-kanagawa施設予約サービス
+help
+空き状況カレンダー
+①日付の選択
+カレンダーから日付を選択します。
+月を切り替えるには①中央の選択中の年月ボタンを押すか、②左右の次の月・前の月のボタンを押します。
+●
+●
+次へ
+スキップ
+=== NETWORK ===
+
+--- GET https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/GetEvent/142131/2002?month=2026-10
+POST: None
+[]
+
+--- POST https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/GetCalendar/142131/2002
+POST: {"startDate":"2026-09-27","endDate":"2026-10-31","roomCode":null,"courtSize":null,"utilizationPurpose":null,"usePeople":null,"room":null,"toggleTimeType":false,"usageTimes":null,"usagePeriodOfTime":null,"allowInternetRequest":null,"requestId":null,"period":35}
+{"dayBooks":[{"usageDate":"2026-09-27T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-09-28T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-09-29T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-09-30T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-01T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-02T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-03T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-04T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-05T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-06T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-07T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-08T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-09T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-10T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-11T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-12T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-13T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-14T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-15T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-16T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-17T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-18T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-19T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-20T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-21T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-22T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-23T00:00:00+09:00","statusType":"U05"},{"usageDate":"2026-10-24T00:00:00+09:00","statusType":"R03"},{"usageDate":"2026-10-25T00:00:00+09:00","statusType":"R03"},{"usageDate":"2026-10-26T00:00:00+09:00","statusType":"A02"},{"usageDate":"2026-10-27T00:00:00+09:00","statusType":"A02"},{"usageDate":"2026-10-28T00:00:00+09:00","statusType":"A02"},{"usageDate":"2026-10-29T00:00:00+09:00","statusType":"A02"},{"usageDate":"2026-10-30T00:00:00+09:00","statusType":"A02"},{"usageDate":"2026-10-31T00:00:00+09:00","statusType":"A02"}],"holidays":[{"holidayDate":"2026-10-12T00:00:00","holidayName":"スポーツの日"}]}
