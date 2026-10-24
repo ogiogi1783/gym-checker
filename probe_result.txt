@@ -1,0 +1,547 @@
+=== PAGE TEXT ===
+arrow_downward
+本文へ移動
+close
+メニュー
+閉じる
+menu
+メニュー
+home
+ホーム
+domain
+施設一覧・検索
+info
+お知らせ
+lock_open
+ログイン
+help
+ヘルプ
+(ウインドウを別のタブで表示します)
+open_in_new
+map
+サイトマップ
+subject
+規約と方針
+(ウインドウを別のタブで表示します)
+open_in_new
+phone
+お問い合わせ
+(ウインドウを別のタブで表示します)
+open_in_new
+location_city
+e-kanagawa施設予約ポータル
+close
+閉じる
+lock_open
+ログインする
+font_adjuster
+表示設定
+あなたの現在地:
+home
+ホーム
+chevron_right
+現在のページ :
+施設一覧・検索
+domain
+施設一覧・検索
+help
+ヘルプ - 施設一覧・検索
+ヘルプ open_in_new
+ウインドウを別のタブで表示します
+search
+絞り込み条件
+閉じる
+keyboard_arrow_up
+edit
+目的・場所
+sports_tennis
+目的
+利用目的
+search
+place
+地区
+地区
+arrow_drop_down
+domain
+施設
+施設
+search
+calendar_today
+利用日時
+利用日
+event
+利用時間帯
+利用時間帯
+a
+午前
+a
+午後
+a
+夜間
+検索
+searchほかの条件検索open_in_browser
+件数
+23件 (室場80件)
+全室場の空きを一括で確認
+help
+ヒント
+複数室場(10件以内)の空きを一括で確認・比較できます。
+一覧
+大和市
+三機MIRAIスポーツセンター大和
+directions_car 
+駐車場
+有
+calendar_today
+三機MIRAIスポーツセンター大和の
+空き状況
+ 
+description
+三機MIRAIスポーツセンター大和の
+案内
+warning 利用には施設利用許可が必要です。
+help
+ヒント
+三機MIRAIスポーツセンター大和
+施設利用許可申込の方法について
+a
+三機MIRAIアリーナ（第1体育室） 三機MIRAIスポーツセンター大和
+三機MIRAIアリーナ（第1体育室）
+の案内
+ネット申込OK 
+calendar_today
+三機MIRAIアリーナ（第1体育室）の
+空き状況
+a
+第2体育室 三機MIRAIスポーツセンター大和
+第2体育室
+の案内
+a
+会議室 三機MIRAIスポーツセンター大和
+会議室
+の案内
+a
+第3体育室 三機MIRAIスポーツセンター大和
+第3体育室
+の案内
+ネット申込OK 
+calendar_today
+第3体育室の
+空き状況
+arrow_downward 
+三機MIRAIスポーツセンター大和の
+残りの室場を表示 more_horiz
+大和市
+コスドンつきみ野ベースボールパーク（つきみ野野球場）
+directions_car 
+駐車場
+有
+calendar_today
+コスドンつきみ野ベースボールパーク（つきみ野野球場）の
+空き状況
+ 
+description
+コスドンつきみ野ベースボールパーク（つきみ野野球場）の
+案内
+warning 利用には施設利用許可が必要です。
+help
+ヒント
+コスドンつきみ野ベースボールパーク（つきみ野野球場）
+施設利用許可申込の方法について
+a
+野球場 コスドンつきみ野ベースボールパーク（つきみ野野球場）
+野球場
+の案内
+ネット申込OK 
+calendar_today
+野球場の
+空き状況
+大和市
+大和スタジアム
+directions_car 
+駐車場
+有
+calendar_today
+大和スタジアムの
+空き状況
+ 
+description
+大和スタジアムの
+案内
+warning 利用には施設利用許可が必要です。
+help
+ヒント
+大和スタジアム
+施設利用許可申込の方法について
+a
+野球場 大和スタジアム
+野球場
+の案内
+ネット申込OK 
+calendar_today
+野球場の
+空き状況
+a
+室内練習場 大和スタジアム
+室内練習場
+の案内
+a
+会議室 大和スタジアム
+会議室
+の案内
+a
+本部室 大和スタジアム
+本部室
+の案内
+大和市
+宮久保野球場
+directions_car 
+駐車場
+有
+calendar_today
+宮久保野球場の
+空き状況
+ 
+description
+宮久保野球場の
+案内
+warning 利用には施設利用許可が必要です。
+help
+ヒント
+宮久保野球場
+施設利用許可申込の方法について
+a
+野球場 宮久保野球場
+野球場
+の案内
+ネット申込OK 
+calendar_today
+野球場の
+空き状況
+大和市
+下福田野球場
+directions_car 
+駐車場
+有
+calendar_today
+下福田野球場の
+空き状況
+ 
+description
+下福田野球場の
+案内
+warning 利用には施設利用許可が必要です。
+help
+ヒント
+下福田野球場
+施設利用許可申込の方法について
+a
+野球場 下福田野球場
+野球場
+の案内
+ネット申込OK 
+calendar_today
+野球場の
+空き状況
+大和市
+深見歴史の森スポーツ広場
+directions_car 
+駐車場
+有
+calendar_today
+深見歴史の森スポーツ広場の
+空き状況
+ 
+description
+深見歴史の森スポーツ広場の
+案内
+warning 利用には施設利用許可が必要です。
+help
+ヒント
+深見歴史の森スポーツ広場
+施設利用許可申込の方法について
+a
+グラウンド 深見歴史の森スポーツ広場
+グラウンド
+の案内
+ネット申込OK 
+calendar_today
+グラウンドの
+空き状況
+大和市
+桜森スポーツ広場
+calendar_today
+桜森スポーツ広場の
+空き状況
+ 
+description
+桜森スポーツ広場の
+案内
+warning 利用には施設利用許可が必要です。
+help
+ヒント
+桜森スポーツ広場
+施設利用許可申込の方法について
+a
+グラウンド 桜森スポーツ広場
+グラウンド
+の案内
+ネット申込OK 
+calendar_today
+グラウンドの
+空き状況
+大和市
+宮久保スポーツ広場
+directions_car 
+駐車場
+有
+calendar_today
+宮久保スポーツ広場の
+空き状況
+ 
+description
+宮久保スポーツ広場の
+案内
+warning 利用には施設利用許可が必要です。
+help
+ヒント
+宮久保スポーツ広場
+施設利用許可申込の方法について
+a
+グラウンド 宮久保スポーツ広場
+グラウンド
+の案内
+ネット申込OK 
+calendar_today
+グラウンドの
+空き状況
+大和市
+下福田スポーツ広場
+directions_car 
+駐車場
+有
+calendar_today
+下福田スポーツ広場の
+空き状況
+ 
+description
+下福田スポーツ広場の
+案内
+warning 利用には施設利用許可が必要です。
+help
+ヒント
+下福田スポーツ広場
+施設利用許可申込の方法について
+a
+メイングラウンド 下福田スポーツ広場
+メイングラウンド
+の案内
+ネット申込OK 
+calendar_today
+メイングラウンドの
+空き状況
+大和市
+F・マリノス 成城石井パーク（大和ゆとりの森）
+directions_car 
+駐車場
+有
+calendar_today
+F・マリノス 成城石井パーク（大和ゆとりの森）の
+空き状況
+ 
+description
+F・マリノス 成城石井パーク（大和ゆとりの森）の
+案内
+warning 利用には施設利用許可が必要です。
+help
+ヒント
+F・マリノス 成城石井パーク（大和ゆとりの森）
+施設利用許可申込の方法について
+a
+テニスコート F・マリノス 成城石井パーク（大和ゆとりの森）
+テニスコート
+の案内
+ネット申込OK 
+calendar_today
+テニスコートの
+空き状況
+a
+大規模多目的スポーツ広場 F・マリノス 成城石井パーク（大和ゆとりの森）
+大規模多目的スポーツ広場
+の案内
+ネット申込OK 
+calendar_today
+大規模多目的スポーツ広場の
+空き状況
+a
+中規模多目的スポーツ広場 F・マリノス 成城石井パーク（大和ゆとりの森）
+中規模多目的スポーツ広場
+の案内
+ネット申込OK 
+calendar_today
+中規模多目的スポーツ広場の
+空き状況
+a
+芝生グラウンド F・マリノス 成城石井パーク（大和ゆとりの森）
+芝生グラウンド
+の案内
+ネット申込OK 
+calendar_today
+芝生グラウンドの
+空き状況
+arrow_downward
+つづきを表示
+arrow_downward
+凡例
+directions_car 
+駐車場
+有：駐車場あり
+undoホームにもどる
+arrow_back
+前のページに戻る
+ヘルプ
+(ウインドウを別のタブで表示します)
+open_in_new
+サイトマップ
+規約と方針
+(ウインドウを別のタブで表示します)
+open_in_new
+お問い合わせ
+(ウインドウを別のタブで表示します)
+open_in_new
+ホーム
+施設一覧・検索
+お知らせ
+© 大和市e-kanagawa施設予約サービス
+
+=== LINKS ===
+全室場の空きを一括で確認 -> 
+calendar_today
+三機MIRAIスポーツセンター大和の
+空き状況 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/Index/142131/1001?ptn=1
+description
+三機MIRAIスポーツセンター大和の
+案内 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityGuides/Index/142131/1001?d=
+三機MIRAIアリーナ（第1体育室）
+の案内 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/RoomGuides/Index/142131/1001/101?d=
+calendar_today
+三機MIRAIアリーナ（第1体育室）の
+空き状況 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/Index/142131/1001?rc=101&ptn=1
+第2体育室
+の案内 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/RoomGuides/Index/142131/1001/161?d=
+第3体育室
+の案内 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/RoomGuides/Index/142131/1001/111?d=
+calendar_today
+第3体育室の
+空き状況 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/Index/142131/1001?rc=111&ptn=1
+calendar_today
+コスドンつきみ野ベースボールパーク（つきみ野野球場）の
+空き状況 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/Index/142131/1002?ptn=1
+calendar_today
+野球場の
+空き状況 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/Index/142131/1002?rc=101&ptn=1
+calendar_today
+大和スタジアムの
+空き状況 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/Index/142131/1003?ptn=1
+calendar_today
+野球場の
+空き状況 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/Index/142131/1003?rc=101&ptn=1
+calendar_today
+宮久保野球場の
+空き状況 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/Index/142131/1004?ptn=1
+calendar_today
+野球場の
+空き状況 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/Index/142131/1004?rc=101&ptn=1
+calendar_today
+下福田野球場の
+空き状況 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/Index/142131/1005?ptn=1
+calendar_today
+野球場の
+空き状況 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/Index/142131/1005?rc=101&ptn=1
+calendar_today
+深見歴史の森スポーツ広場の
+空き状況 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/Index/142131/1006?ptn=1
+description
+深見歴史の森スポーツ広場の
+案内 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityGuides/Index/142131/1006?d=
+calendar_today
+グラウンドの
+空き状況 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/Index/142131/1006?rc=101&ptn=1
+calendar_today
+桜森スポーツ広場の
+空き状況 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/Index/142131/1007?ptn=1
+description
+桜森スポーツ広場の
+案内 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityGuides/Index/142131/1007?d=
+calendar_today
+グラウンドの
+空き状況 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/Index/142131/1007?rc=101&ptn=1
+calendar_today
+宮久保スポーツ広場の
+空き状況 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/Index/142131/1008?ptn=1
+description
+宮久保スポーツ広場の
+案内 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityGuides/Index/142131/1008?d=
+calendar_today
+グラウンドの
+空き状況 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/Index/142131/1008?rc=101&ptn=1
+calendar_today
+下福田スポーツ広場の
+空き状況 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/Index/142131/1009?ptn=1
+description
+下福田スポーツ広場の
+案内 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityGuides/Index/142131/1009?d=
+calendar_today
+メイングラウンドの
+空き状況 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/Index/142131/1009?rc=101&ptn=1
+calendar_today
+F・マリノス 成城石井パーク（大和ゆとりの森）の
+空き状況 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/Index/142131/1010?ptn=1
+calendar_today
+テニスコートの
+空き状況 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/Index/142131/1010?rc=131&ptn=1
+大規模多目的スポーツ広場
+の案内 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/RoomGuides/Index/142131/1010/121?d=
+calendar_today
+大規模多目的スポーツ広場の
+空き状況 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/Index/142131/1010?rc=121&ptn=1
+中規模多目的スポーツ広場
+の案内 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/RoomGuides/Index/142131/1010/111?d=
+calendar_today
+中規模多目的スポーツ広場の
+空き状況 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/Index/142131/1010?rc=111&ptn=1
+calendar_today
+芝生グラウンドの
+空き状況 -> https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilityAvailability/Index/142131/1010?rc=101&ptn=1
+
+=== NETWORK ===
+[
+ {
+  "url": "https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilitySearch/SearchUtilizationPurpose?k=&utilizationPurposeName=&rowsPerPage=0&totalItems=",
+  "method": "GET",
+  "post": null,
+  "status": 200,
+  "body": "{\"data\":[{\"gi\":\"u\",\"key\":\"4\",\"upi\":4,\"upcn\":\"スポーツ（球技）\",\"upn\":\"硬式野球\",\"gn\":\"利用目的\",\"ii\":\"u4\"},{\"gi\":\"u\",\"key\":\"6\",\"upi\":6,\"upcn\":\"スポーツ（球技）\",\"upn\":\"軟式野球\",\"gn\":\"利用目的\",\"ii\":\"u6\"},{\"gi\":\"u\",\"key\":\"36\",\"upi\":36,\"upcn\":\"スポーツ（球技）\",\"upn\":\"少年野球\",\"gn\":\"利用目的\",\"ii\":\"u36\"},{\"gi\":\"u\",\"key\":\"7\",\"upi\":7,\"upcn\":\"スポーツ（球技）\",\"upn\":\"ソフトボール\",\"gn\":\"利用目的\",\"ii\":\"u7\"},{\"gi\":\"u\",\"key\":\"9\",\"upi\":9,\"upcn\":\"スポーツ（球技）\",\"upn\":\"サッカー\",\"gn\":\"利用目的\",\"ii\":\"u9\"},{\"gi\":\"u\",\"key\":\"35\",\"upi\":35,\"upcn\":\"スポーツ（球技）\",\"upn\":\"少年サッカー\",\"gn\":\"利用目的\",\"ii\":\"u35\"},{\"gi\":\"u\",\"key\":\"10\",\"upi\":10,\"upcn\":\"スポーツ（球技）\",\"upn\":\"フットサル\",\"gn\":\"利用目的\",\"ii\":\"u10\"},{\"gi\":\"u\",\"key\":\"11\",\"upi\":11,\"upcn\":\"スポーツ（球技）\",\"upn\":\"ラグビー\",\"gn\":\"利用目的\",\"ii\":\"u11\"},{\"gi\":\"u\",\"key\":\"14\",\"upi\":14,\"upcn\":\"スポーツ（球技）\",\"upn\":\"硬式テニス\",\"gn\":\"利用目的\",\"ii\":\"u14\"},{\"gi\":\"u\",\"key\":\"15\",\"upi\":15,\"upcn\":\"スポーツ（球技）\",\"upn\":\"ソフトテニス\",\"gn\":\"利用目的\",\"ii\":\"u15\"},{\"gi\":\"u\",\"key\":\"34\",\"upi\":34,\"upcn\":\"スポーツ（球技）\",\"upn\":\"バウンドテニス\",\"gn\":\"利用目的\",\"ii\":\"u34\"},{\"gi\":\"u\",\"key\":\"16\",\"upi\":16,\"upcn\":\"スポーツ（球技）\",\"upn\":\"卓球\",\"gn\":\"利用目的\",\"ii\":\"u16\"},{\"gi\":\"u\",\"key\":\"182\",\"upi\":182,\"upcn\":\"スポーツ（球技）\",\"upn\":\"ラージ卓球\",\"gn\":\"利用目的\",\"ii\":\"u182\"},{\"gi\":\"u\",\"key\":\"33\",\"upi\":33,\"upcn\":\"スポーツ（球技）\",\"upn\":\"ピックルボール\",\"gn\":\"利用目的\",\"ii\":\"u33\"},{\"gi\":\"u\",\"key\":\"17\",\"upi\":17,\"upcn\":\"スポーツ（球技）\",\"upn\":\"バドミントン\",\"gn\":\"利用目的\",\"ii\":\"u17\"},{\"gi\":\"u\",\"key\":\"18\",\"upi\":18,\"upcn\":\"スポーツ（球技）\",\"upn\":\"バスケットボール\",\"gn\":\"利用目的\",\"ii\":\"u18\"},{\"gi\":\"u\",\"key\":\"19\",\"upi\":19,\"upcn\":\"スポーツ（球技）\",\"upn\":\"ミニバスケットボール\",\"gn\":\"利用目的\",\"ii\":\"u19\"},{\"gi\":\"u\",\"key\":\"21\",\"upi\":21,\"upcn\":\"スポーツ（球技）\",\"upn\":\"バレーボール\",\"gn\":\"利用目的\",\"ii\":\"u21\"},{\"gi\":\"u\",\"key\":\"23\",\"upi\":23,\"upcn\":\"スポーツ（球技）\",\"upn\":\"ソフトバレーボール\",\"gn\":\"利用目的\",\"ii\":\"u23\"},{\"gi\":\"u\",\"key\":\"25\",\"upi\":25,\"upcn\":\"スポーツ（球技）\",\"upn\":\"ハンドボール\",\"gn\":\"利用目的\",\"ii\":\"u25\"},{\"gi\":\"u\",\"key\":\"26\",\"upi\":26,\"upcn\":\"スポーツ（球技）\",\"upn\":\"ドッジボール\",\"gn\":\"利用目的\",\"ii\":\"u26\"},{\"gi\":\"u\",\"key\":\"27\",\"upi\":27,\"upcn\":\"スポーツ（球技）\",\"upn\":\"キックベースボール\",\"gn\":\"利用目的\",\"ii\":\"u27\"},{\"gi\":\"u\",\"key\":\"28\",\"upi\":28,\"upcn\":\"スポーツ（球技）\",\"upn\":\"ラクロス\",\"gn\":\"利用目的\",\"ii\":\"u28\"},{\"gi\":\"u\",\"key\":\"32\",\"upi\":32,\"upcn\":\"スポーツ（球技）\",\"upn\":\"グラウンド・ゴルフ\",\"gn\":\"利用目的\",\"ii\":\"u32\"},{\"gi\":\"u\",\"key\":\"42\",\"upi\":42,\"upcn\":\"スポーツ（武道・格闘技）\",\"upn\":\"柔道\",\"gn\":\"利用目的\",\"ii\":\"u42\"},{\"gi\":\"u\",\"key\":\"43\",\"upi\":43,\"upcn\":\"スポーツ（武道・格闘技）\",\"upn\":\"剣道\",\"gn\":\"利用目的\",\"ii\":\"u43\"},{\"gi\":\"u\",\"key\":\"44\",\"upi\":44,\"upcn\":\"スポーツ（武道・格闘技）\",\"upn\":\"空手\",\"gn\":\"利用目的\",\"ii\":\"u44\"},{\"gi\":\"u\",\"key\":\"46\",\"upi\":46,\"upcn\":\"スポーツ（武道・格闘技）\",\"upn\":\"合気道\",\"gn\":\"利用目的\",\"ii\":\"u46\"},{\"gi\":\"u\",\"key\":\"53\",\"upi\":53,\"upcn\":\"スポーツ（武道・格闘技）\",\"upn\":\"居合道\",\"gn\":\"利用目的\",\"ii\":\"u53\"},{\"gi\":\"u\",\"key\":\"55\",\"upi\":55,\"upcn\":\"スポーツ（武道・格闘技）\",\"upn\":\"太極拳\",\"gn\":\"利用目的\",\"ii\":\"u55\"},{\"gi\":\"u\",\"key\":\"183\",\"upi\":183,\"upcn\":\"スポーツ（武道・格闘技）\",\"upn\":\"薙刀\",\"gn\":\"利用目的\",\"ii\":\"u183\"},{\"gi\":\"u\",\"key\":\"184\",\"upi\":184,\"upcn\":\"スポーツ（武道・格闘技）\",\"upn\":\"弓道・アーチェリー\",\"gn\":\"利用目的\",\"ii\":\"u184\"},{\"gi\":\"u\",\"key\":\"49\",\"upi\":49,\"upcn\":\"スポーツ（武道・格闘技）\",\"upn\":\"その他拳法\",\"gn\":\"利用目的\",\"ii\":\"u49\"},{\"gi\":\"u\",\"key\":\"58\",\"upi\":58,\"upcn\":\"スポーツ（体操・ダンス）\",\"upn\":\"新体操\",\"gn\":\"利用目的\",\"ii\":\"u58\"},{\"gi\":\"u\",\"key\":\"72\",\"up"
+ },
+ {
+  "url": "https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilitySearch/SearchFacility?k=&facilityName=&ac=&fcg=&rowsPerPage=0&totalItems=",
+  "method": "GET",
+  "post": null,
+  "status": 200,
+  "body": "{\"data\":[],\"meta\":null}"
+ },
+ {
+  "url": "https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilitySearch/Search",
+  "method": "POST",
+  "post": "{\"u\":null,\"p\":null,\"a\":null,\"fcg\":null,\"f\":null,\"r\":null,\"tdt\":1,\"d\":null,\"ps\":null,\"tt\":false,\"ts\":null,\"pt\":null,\"dw\":null,\"w\":null,\"hp\":null,\"n\":null}",
+  "status": 200,
+  "body": "{\"fs\":[{\"lgc\":\"142131\",\"an\":\"大和市\",\"fc\":\"1001\",\"fn\":\"三機MIRAIスポーツセンター大和\",\"fgt\":\"1\",\"epu\":\"\",\"hp\":true,\"ius\":false,\"dup\":true,\"arup\":false,\"rupd\":\"<p>予約・利用するためには利用者登録（アカウント登録）及びログインする必要があります。</p><p>利用者登録は各施設の窓口等で行えます。</p><p>詳しくは<a href=\\\"https://www.yamato-zaidan.or.jp/z_new/zaidan_sportcentre.html\\\" target=\\\"_blank\\\">こちら</a>をご確認ください。<br></p>\",\"usp\":false,\"upsd\":null,\"uped\":null,\"upd\":\"2026-08-27T10:26:33.920912\",\"rs\":[{\"rc\":\"101\",\"rn\":\"三機MIRAIアリーナ（第1体育室）\",\"rut\":\"5\",\"n\":true,\"ia\":null,\"sa\":true,\"sg\":true},{\"rc\":\"161\",\"rn\":\"第2体育室\",\"rut\":\"2\",\"n\":false,\"ia\":null,\"sa\":true,\"sg\":true},{\"rc\":\"171\",\"rn\":\"会議室\",\"rut\":\"2\",\"n\":false,\"ia\":null,\"sa\":true,\"sg\":true},{\"rc\":\"111\",\"rn\":\"第3体育室\",\"rut\":\"5\",\"n\":true,\"ia\":null,\"sa\":true,\"sg\":true},{\"rc\":\"121\",\"rn\":\"第一武道場\",\"rut\":\"5\",\"n\":true,\"ia\":null,\"sa\":true,\"sg\":true},{\"rc\":\"131\",\"rn\":\"第二武道場\",\"rut\":\"5\",\"n\":true,\"ia\":null,\"sa\":true,\"sg\":true},{\"rc\":\"141\",\"rn\":\"弓道場\",\"rut\":\"5\",\"n\":true,\"ia\":null,\"sa\":true,\"sg\":true},{\"rc\":\"151\",\"rn\":\"大和なでしこ三機スタジアム（競技場）\",\"rut\":\"2\",\"n\":false,\"ia\":null,\"sa\":true,\"sg\":true}],\"sa\":true,\"sg\":true,\"sr\":true,\"ia\":true,\"go\":true},{\"lgc\":\"142131\",\"an\":\"大和市\",\"fc\":\"1002\",\"fn\":\"コスドンつきみ野ベースボールパーク（つきみ野野球場）\",\"fgt\":\"1\",\"epu\":\"\",\"hp\":true,\"ius\":false,\"dup\":true,\"arup\":false,\"rupd\":\"<p>予約・利用するためには利用者登録（アカウント登録）及びログインする必要があります。</p><p>利用者登録は各施設の窓口等で行えます。</p><p>詳しくは<a href=\\\"https://www.yamato-zaidan.or.jp/z_new/zaidan_sportcentre.html\\\" target=\\\"_blank\\\">こちら</a>をご確認ください。<br></p>\",\"usp\":false,\"upsd\":null,\"uped\":null,\"upd\":\"2026-08-27T10:27:09.177424\",\"rs\":[{\"rc\":\"101\",\"rn\":\"野球場\",\"rut\":\"5\",\"n\":true,\"ia\":null,\"sa\":true,\"sg\":true}],\"sa\":true,\"sg\":true,\"sr\":true,\"ia\":true,\"go\":true},{\"lgc\":\"142131\",\"an\":\"大和市\",\"fc\":\"1003\",\"fn\":\"大和スタジアム\",\"fgt\":\"1\",\"epu\":\"\",\"hp\":true,\"ius\":false,\"dup\":true,\"arup\":false,\"rupd\":\"<p>予約・利用するためには利用者登録（アカウント登録）及びログインする必要があります。</p><p>利用者登録は各施設の窓口等で行えます。</p><p>詳しくは<a href=\\\"https://www.yamato-zaidan.or.jp/z_new/zaidan_sportcentre.html\\\" target=\\\"_blank\\\">こちら</a>をご確認ください。<br></p>\",\"usp\":false,\"upsd\":null,\"uped\":null,\"upd\":\"2026-08-27T10:27:43.80005\",\"rs\":[{\"rc\":\"101\",\"rn\":\"野球場\",\"rut\":\"5\",\"n\":true,\"ia\":null,\"sa\":true,\"sg\":true},{\"rc\":\"111\",\"rn\":\"室内練習場\",\"rut\":\"2\",\"n\":false,\"ia\":null,\"sa\":true,\"sg\":true},{\"rc\":\"131\",\"rn\":\"会議室\",\"rut\":\"2\",\"n\":false,\"ia\":null,\"sa\":true,\"sg\":true},{\"rc\":\"121\",\"rn\":\"本部室\",\"rut\":\"2\",\"n\":false,\"ia\":null,\"sa\":true,\"sg\":true}],\"sa\":true,\"sg\":true,\"sr\":true,\"ia\":true,\"go\":true},{\"lgc\":\"142131\",\"an\":\"大和市\",\"fc\":\"1004\",\"fn\":\"宮久保野球場\",\"fgt\":\"1\",\"epu\":\"\",\"hp\":true,\"ius\":false,\"dup\":true,\"arup\":false,\"rupd\":\"<p>予約・利用するためには利用者登録（アカウント登録）及びログインする必要があります。</p><p>利用者登録は各施設の窓口等で行えます。</p><p>詳しくは<a href=\\\"https://www.yamato-zaidan.or.jp/z_new/zaidan_sportcentre.html\\\" target=\\\"_blank\\\">こちら</a>をご確認ください。<br></p>\",\"usp\":false,\"upsd\":null,\"uped\":null,\"upd\":\"2026-08-27T10:28:37.228326\",\"rs\":[{\"rc\":\"101\",\"rn\":\"野球場\",\"rut\":\"5\",\"n\":true,\"ia\":null,\"sa\":true,\"sg\":true}],\"sa\":true,\"sg\":true,\"sr\":true,\"ia\":true,\"go\":true},{\"lgc\":\"142131\",\"an\":\"大和市\",\"fc\":\"1005\",\"fn\":\"下福田野球場\",\"fgt\":\"1\",\"epu\":\"\",\"hp\":t"
+ },
+ {
+  "url": "https://s-yoyaku.e-kanagawa.lg.jp/yamato/FacilitySearch/SearchFacility?k=&facilityName=&fcg=&rowsPerPage=0&totalItems=",
+  "method": "GET",
+  "post": null,
+  "status": 200,
+  "body": "{\"data\":[{\"gi\":\"f\",\"key\":\"10\",\"lgc\":\"142131\",\"fi\":10,\"fc\":\"1001\",\"fn\":\"三機MIRAIスポーツセンター大和\",\"fcgn\":\"01 スポーツ施設\",\"gn\":\"施設\",\"ii\":\"f10\"},{\"gi\":\"f\",\"key\":\"7\",\"lgc\":\"142131\",\"fi\":7,\"fc\":\"1002\",\"fn\":\"コスドンつきみ野ベースボールパーク（つきみ野野球場）\",\"fcgn\":\"01 スポーツ施設\",\"gn\":\"施設\",\"ii\":\"f7\"},{\"gi\":\"f\",\"key\":\"17\",\"lgc\":\"142131\",\"fi\":17,\"fc\":\"1003\",\"fn\":\"大和スタジアム\",\"fcgn\":\"01 スポーツ施設\",\"gn\":\"施設\",\"ii\":\"f17\"},{\"gi\":\"f\",\"key\":\"13\",\"lgc\":\"142131\",\"fi\":13,\"fc\":\"1004\",\"fn\":\"宮久保野球場\",\"fcgn\":\"01 スポーツ施設\",\"gn\":\"施設\",\"ii\":\"f13\"},{\"gi\":\"f\",\"key\":\"24\",\"lgc\":\"142131\",\"fi\":24,\"fc\":\"1005\",\"fn\":\"下福田野球場\",\"fcgn\":\"01 スポーツ施設\",\"gn\":\"施設\",\"ii\":\"f24\"},{\"gi\":\"f\",\"key\":\"16\",\"lgc\":\"142131\",\"fi\":16,\"fc\":\"1006\",\"fn\":\"深見歴史の森スポーツ広場\",\"fcgn\":\"01 スポーツ施設\",\"gn\":\"施設\",\"ii\":\"f16\"},{\"gi\":\"f\",\"key\":\"18\",\"lgc\":\"142131\",\"fi\":18,\"fc\":\"1007\",\"fn\":\"桜森スポーツ広場\",\"fcgn\":\"01 スポーツ施設\",\"gn\":\"施設\",\"ii\":\"f18\"},{\"gi\":\"f\",\"key\":\"15\",\"lgc\":\"142131\",\"fi\":15,\"fc\":\"1008\",\"fn\":\"宮久保スポーツ広場\",\"fcgn\":\"01 スポーツ施設\",\"gn\":\"施設\",\"ii\":\"f15\"},{\"gi\":\"f\",\"key\":\"14\",\"lgc\":\"142131\",\"fi\":14,\"fc\":\"1009\",\"fn\":\"下福田スポーツ広場\",\"fcgn\":\"01 スポーツ施設\",\"gn\":\"施設\",\"ii\":\"f14\"},{\"gi\":\"f\",\"key\":\"12\",\"lgc\":\"142131\",\"fi\":12,\"fc\":\"1010\",\"fn\":\"F・マリノス 成城石井パーク（大和ゆとりの森）\",\"fcgn\":\"01 スポーツ施設\",\"gn\":\"施設\",\"ii\":\"f12\"},{\"gi\":\"f\",\"key\":\"11\",\"lgc\":\"142131\",\"fi\":11,\"fc\":\"1011\",\"fn\":\"草柳庭球場\",\"fcgn\":\"01 スポーツ施設\",\"gn\":\"施設\",\"ii\":\"f11\"},{\"gi\":\"f\",\"key\":\"19\",\"lgc\":\"142131\",\"fi\":19,\"fc\":\"2001\",\"fn\":\"大和市生涯学習センター\",\"fcgn\":\"02 学習施設\",\"gn\":\"施設\",\"ii\":\"f19\"},{\"gi\":\"f\",\"key\":\"20\",\"lgc\":\"142131\",\"fi\":20,\"fc\":\"2002\",\"fn\":\"リンカングループ大和文化センター（北部文化・スポーツ・子育てセンター）\",\"fcgn\":\"02 学習施設\",\"gn\":\"施設\",\"ii\":\"f20\"},{\"gi\":\"f\",\"key\":\"21\",\"lgc\":\"142131\",\"fi\":21,\"fc\":\"2003\",\"fn\":\"大和市つきみ野学習センター\",\"fcgn\":\"02 学習施設\",\"gn\":\"施設\",\"ii\":\"f21\"},{\"gi\":\"f\",\"key\":\"22\",\"lgc\":\"142131\",\"fi\":22,\"fc\":\"2004\",\"fn\":\"大和市桜丘学習センター\",\"fcgn\":\"02 学習施設\",\"gn\":\"施設\",\"ii\":\"f22\"},{\"gi\":\"f\",\"key\":\"23\",\"lgc\":\"142131\",\"fi\":23,\"fc\":\"2005\",\"fn\":\"大和市渋谷学習センター\",\"fcgn\":\"02 学習施設\",\"gn\":\"施設\",\"ii\":\"f23\"},{\"gi\":\"f\",\"key\":\"3\",\"lgc\":\"142131\",\"fi\":3,\"fc\":\"3001\",\"fn\":\"共同カイテックみらいパーク(引地台公園)野外音楽堂\",\"fcgn\":\"03 文化福祉施設\",\"gn\":\"施設\",\"ii\":\"f3\"},{\"gi\":\"f\",\"key\":\"4\",\"lgc\":\"142131\",\"fi\":4,\"fc\":\"3002\",\"fn\":\"慈緑庵\",\"fcgn\":\"03 文化福祉施設\",\"gn\":\"施設\",\"ii\":\"f4\"},{\"gi\":\"f\",\"key\":\"1\",\"lgc\":\"142131\",\"fi\":1,\"fc\":\"3003\",\"fn\":\"F・マリノス 成城石井パーク（大和ゆとりの森）多目的ルーム\",\"fcgn\":\"03 文化福祉施設\",\"gn\":\"施設\",\"ii\":\"f1\"},{\"gi\":\"f\",\"key\":\"6\",\"lgc\":\"142131\",\"fi\":6,\"fc\":\"3004\",\"fn\":\"大和市保健福祉センター\",\"fcgn\":\"03 文化福祉施設\",\"gn\":\"施設\",\"ii\":\"f6\"},{\"gi\":\"f\",\"key\":\"5\",\"lgc\":\"142131\",\"fi\":5,\"fc\":\"3005\",\"fn\":\"大和市柳橋ふれあいプラザ\",\"fcgn\":\"03 文化福祉施設\",\"gn\":\"施設\",\"ii\":\"f5\"},{\"gi\":\"f\",\"key\":\"8\",\"lgc\":\"142131\",\"fi\":8,\"fc\":\"3006\",\"fn\":\"やまと芸術文化ホール\",\"fcgn\":\"03 文化福祉施設\",\"gn\":\"施設\",\"ii\":\"f8\"},{\"gi\":\"f\",\"key\":\"9\",\"lgc\":\"142131\",\"fi\":9,\"fc\":\"3007\",\"fn\":\"下鶴間ふるさと館\",\"fcgn\":\"03 文化福祉施設\",\"gn\":\"施設\",\"ii\":\"f9\"}],\"meta\":null}"
+ }
+]
